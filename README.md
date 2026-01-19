@@ -10,7 +10,7 @@ Sincere appreciation to my amazing teammates, Chia Jie Ling, Thiviya Krishnan, a
 📄 All details of this project can be found in the report below.
 
 📄 **Project Report (PDF):**
-[Click here to view the report]
+[View Report](https://github.com/aiminasuha/design_thinking_project/blob/main/Report%20of%20Design%20Thinking%20(ADHD)%20(1).pdf)
 
 🎥 **Project Video:**
-[https://youtu.be/MCw0H1BEBWI](https://youtu.be/x4O9guGL4OA?si=6qs-fn_xwQ9GHDPW)
+[Project Video](https://youtu.be/x4O9guGL4OA?si=6qs-fn_xwQ9GHDPW)
